@@ -1,4 +1,4 @@
-# Hi, I'm Magzhan Birgebaiuly
+# Hi, I'm Magzhan Zhubanysh
 
 - I've been coding in JavaScript primarily for over 15 years
 - I’m learning **Go** and **C** at the moment
